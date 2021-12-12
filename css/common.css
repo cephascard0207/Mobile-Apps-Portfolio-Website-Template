@@ -1,0 +1,181 @@
+@import url("https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap");
+
+
+#title{
+  font-family: "Major Mono Display", monospace;
+}
+
+
+.navbar-brand {
+  font-family: "Major Mono Display", monospace;
+  font-size: 38px;
+  letter-spacing: 3.5px;
+  background: -webkit-linear-gradient(rgb(54, 208, 255), rgb(231, 137, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+ul li {
+  background: -webkit-linear-gradient(rgb(243, 243, 243), rgb(255, 255, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 800;
+  font-family: "Major Mono Display", monospace;
+  transition: 100ms ease-out;
+}
+
+ul li a:hover {
+  background: -webkit-linear-gradient(rgb(54, 208, 255), rgb(231, 137, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 900;
+  transition: 200ms ease-in;
+}
+
+.img-fluid {
+  height: 100vh;
+  width: 100vw;
+  background-attachment: scroll;
+}
+
+.card-img-top{
+  border-radius: 5px;
+}
+
+.h1 {
+  background: -webkit-linear-gradient(rgb(54, 208, 255), rgb(231, 137, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Major Mono Display", monospace;
+  text-align: center;
+  font-weight: 500;
+  margin-top: 80px;
+}
+
+.col {
+  margin-top: 38px;
+  height: 80vh;
+  width: 100vw;
+  margin-bottom: 20px;
+}
+
+
+.offcanvas-title1 {
+  background: -webkit-linear-gradient(rgb(54, 208, 255), rgb(231, 137, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Major Mono Display", monospace;
+  font-weight: 500;
+  font-size: 2em;
+}
+
+.offcanvas-title2 {
+  background: -webkit-linear-gradient(rgb(6, 238, 207), rgb(68, 243, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Major Mono Display", monospace;
+  font-weight: 500;
+  font-size: 2em;
+}
+
+.offcanvas-title3{
+  background: -webkit-linear-gradient(rgb(255, 98, 70), rgb(75, 243, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Major Mono Display", monospace;
+  font-weight: 500;
+  font-size: 2em;
+}
+
+.offcanvas-title4{
+  background: -webkit-linear-gradient(rgb(36, 175, 255), rgb(119, 216, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Major Mono Display", monospace;
+  font-weight: 500;
+  font-size: 2em;
+}
+
+.offcanvas-title5{
+  background: -webkit-linear-gradient(rgb(216, 71, 221), rgb(155, 240, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Major Mono Display", monospace;
+  font-weight: 500;
+  font-size: 2em;
+}
+
+.offcanvas-title6{
+  background: -webkit-linear-gradient(rgba(255, 177, 249, 0.884), rgb(220, 107, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Major Mono Display", monospace;
+  font-weight: 500;
+  font-size: 2em;
+}
+
+
+
+::-webkit-scrollbar {
+  width: 5px;
+  
+}
+
+::-webkit-scrollbar-track {
+  background: black;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(
+    0deg,
+    rgb(50, 192, 235) 0%,
+    rgb(200, 118, 223) 100%
+  );
+}
+
+::-webkit-scrollbar-thumb:hover{
+  background: linear-gradient(
+    0deg,
+    rgb(39, 159, 196) 0%,
+    rgb(135, 80, 150) 100%
+  );
+}
+}
+
+.container1{
+  height: 10vh;
+  width: 100vw;
+}
+
+.navbar-brand1{
+  font-family: "Major Mono Display", monospace;
+  font-size: 25px;
+  letter-spacing: 3.5px;
+  background: -webkit-linear-gradient(rgb(54, 208, 255), rgb(231, 137, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#btn-social{
+  background-color: white;
+  color: rgb(255, 255, 255);
+}
+
+#btn-social:hover{
+  background: -webkit-linear-gradient(rgb(54, 208, 255), rgb(231, 137, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.pt-2{
+  font-family:"Major Mono Display", monospace ;
+}
+
+#contact-txt{
+  background: -webkit-linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+
